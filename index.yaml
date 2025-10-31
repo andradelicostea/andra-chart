@@ -9,6 +9,6 @@ entries:
     name: my-chart
     type: application
     urls:
-    - https://gitlab.com/andra.deli-group/andra-chart/-/raw/main/my-chart-0.1.0.tgz
+    - https://andradelicostea.github.io/andra-chart/my-chart-0.1.0.tgz
     version: 0.1.0
 generated: "2025-10-30T12:03:38.10160976Z"
